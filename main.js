@@ -149,7 +149,7 @@ function moveCamera() {
   camera.position.y = 5 + t * -0.001;
 }
 
-document.body.onscroll = moveCamera
+//document.body.onscroll = moveCamera
 
 
 //basically screen refresh to animate stuff
